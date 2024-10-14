@@ -1,2 +1,2 @@
-# Data-Converter
-Basic data converter for computer.
+# Data-Type-Converter
+Basic Console Data Type Converter
